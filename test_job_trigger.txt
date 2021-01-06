@@ -4,3 +4,4 @@
 # Testing round 3 - 20210106-003#
 # Testing round 4 - 20210106-004 - Maven_001#27 should be triggered
 # Testing round 5 - 20210106-005 - Maven_001#28 - Maven_Tomcat#12 should be triggered
+# Testing round 6 - 20210106-006 - Maven_001#29 - Maven_Tomcat#13 - SQ report should be triggered
